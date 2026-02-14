@@ -14,7 +14,7 @@ const noMessages = [
     "Are you sure? 🤔",
     "Baby please... 🥺",
     "If you say no, I will eat hungry hubbi alone...",
-    "I will be very sad... 😢",
+    "You didn't like my choccies?... 😢",
     "Please??? 💔",
     "Don't do this to me...",
     "Last chance! 😭",
@@ -22,8 +22,8 @@ const noMessages = [
 ]
 
 const yesTeasePokes = [
-    "try saying no first... I bet you want to know what happens 😏",
-    "go on, hit no... just once 👀",
+    "try saying no a few times first... it's funny 😏",
+    "press no, just a few times 👀",
     "you're missing out 😈",
     "click no, I dare you 😏"
 ]
